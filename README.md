@@ -45,6 +45,7 @@ My repositories reflect both my academic background and my continuous effort to 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -147,15 +148,15 @@ A SaaS platform developed during my final-year project to support **construction
 
 `Java` `Spring Boot` `JPA/Hibernate` `MySQL` `REST API` `AWS` `Terraform` `Docker` `Linux` `Grafana`
 
-### 💰 FlousMate
+### 🎓 Excellia Bourse | Scholarship & Application Platform
 
-A distributed financial management application built around multiple backend services.
+A microservices platform for managing scholarship programs and candidate applications. The system includes dedicated services for discovery, centralized configuration, API gateway, applications, messaging, and notifications.
 
-The project explores a **microservices architecture** with dedicated services for authentication, transactions, notifications, categorization, and other business capabilities.
+The project uses asynchronous messaging for service communication and is built and deployed through a Jenkins CI/CD pipeline with Ansible and Docker Compose on AWS EC2.
 
 **Technologies:**
 
-`Java` `Spring Boot` `Spring Cloud` `Kafka` `Microservices` `REST API`
+`Java` `Spring Boot` `Spring Cloud` `Eureka` `Spring Cloud Config` `Kafka` `MySQL` `Maven` `Docker` `Jenkins` `Ansible` `AWS EC2`
 
 ### 🌦️ Data & Weather Pipeline
 
@@ -225,4 +226,6 @@ I'm interested in opportunities related to:
 📫 Feel free to explore my repositories and connect with me.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ballouk12-181717?style=for-the-badge&logo=github)](https://github.com/Ballouk12)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-livid-alpha-42.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ballouk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedballouk165@gmail.com)
