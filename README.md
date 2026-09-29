@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ballouk12-181717?style=for-the-badge&logo=github)](https://github.com/Ballouk12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Ballouk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-livid-alpha-42.vercel.app/)
 [![Profile views](https://komarev.com/ghpvc/?username=Ballouk12&style=for-the-badge&color=blue)](https://github.com/Ballouk12)
 
 </div>
@@ -205,13 +206,13 @@ For me, engineering is not only about implementing features, but also understand
 
 <div align="center">
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ballouk12&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/Ballouk12)
+[![Mohamed's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ballouk12&theme=github)](https://github.com/Ballouk12)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ballouk12&layout=compact&hide_border=true)](https://github.com/Ballouk12)
+[![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ballouk12&theme=github)](https://github.com/Ballouk12)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ballouk12&hide_border=true)](https://github.com/Ballouk12)
 
-[![Mohamed's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ballouk12&hide_border=true)](https://github.com/Ballouk12)
+[![Mohamed's GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ballouk12&theme=github)](https://github.com/Ballouk12)
 
 </div>
 
